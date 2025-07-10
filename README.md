@@ -1,4 +1,4 @@
-# Simple Age Calculator Using HTML, CSS, and JS
+# Simple Age Calculator Using HTML, CSS and JS
 
 This project is a simple calculator that returns the current age of the person using the application.<br>
 It requests the person's full date of birth and evaluates it using a function via the "Calculate" button.<br> 
